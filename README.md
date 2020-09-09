@@ -30,4 +30,4 @@
 | 송진호 | 팀장, 서버 개발, DB 설계 및 구현 | C, Java, Python, HTML, Javascript, Node.js, MySQL | UML 모델링 |
 | 김태호 | - | C, Java | UML 모델링 |
 | 류준형 | 안드로이드 개발, 테스터 | C, Java, Javascript(jQuery), MySQL, PHP, Python(NumPy, Matplotlib, TensorFlow-Keras), Flask | UML 모델링 |
-| 박근모 | 안드로이드 개발, 테스터| C, Java | UML 모델링 |
+| 박근모 | 안드로이드 개발, 테스터| C, Java, Android | UML 모델링 |
