@@ -5,8 +5,9 @@
 - 본인이 가지고 있는 식재료에서 음식 조리에 사용된 재료를 자동으로 차감함으로써 식재료가 얼마나 남았고, 장을 언제 보러 가야 할지 파악할 수 있다.
 
 ### 팀 구성원
-| Participants | Role | Skills | Framework | Training Needs |
-|---|---|---|---|---|
-| 송진호 | 팀장, 서버 개발, DB 설계 및 구현 | C, Java, Python, Javascript, MySQL | Node.js | UML 모델링 |
-| 류준형 | 안드로이드 개발, 문서 작성, 테스터 | C, Java, Javascript(jQuery), MySQL, PHP, Python(NumPy, Matplotlib, TensorFlow-Keras) | Flask | UML 모델링 |
-| 박근모 | 안드로이드 개발, 테스터| C, Java | | UML 모델링 |
+| Participants | Role | Skills | Training Needs |
+|:------------:|:----:|:------:|:--------------:|
+| 송진호 | 팀장, 서버 개발, DB 설계 및 구현 | C, Java, Python, HTML, Javascript, Node.js, MySQL | UML 모델링 |
+| 김태호 | - | C, Java | UML 모델링 |
+| 류준형 | 안드로이드 개발, 테스터 | C, Java, Javascript(jQuery), MySQL, PHP, Python(NumPy, Matplotlib, TensorFlow-Keras), Flask | UML 모델링 |
+| 박근모 | 안드로이드 개발, 테스터| C, Java | UML 모델링 |
