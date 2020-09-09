@@ -21,8 +21,9 @@
 - 요리를 완료하면 그 요리에 사용된 재료만큼을 사용자의 '냉장고'에서 차감 => 다음 요리를 선정할 때 반영됨 
 - 사용자가 정해놓은 시간대(식사시간)에 추천요리 알림
 - 다른 사용자가 올린 레시피 추천, 리뷰기능
--
--
+- 냉장고 안의 식재료의 유통기한을 알려주는 기능이 필요하다
+- 냉장고 안의 식재료로 만들 수 있는 메뉴으 레시피를 알려줘야 한다
+- 냉장고 안에 남은 식재료의 양을 알려줘야 한다.
 -
 -
 
@@ -35,4 +36,5 @@
 | 송진호 | 팀장, 서버 개발, DB 설계 및 구현 | C, Java, Python, HTML, Javascript, Node.js, MySQL | UML 모델링 |
 | 김태호 | - | C, Java | UML 모델링 |
 | 류준형 | 안드로이드 개발, 테스터 | C, Java, Javascript(jQuery), MySQL, PHP, Python(NumPy, Matplotlib, TensorFlow-Keras), Flask | UML 모델링 |
-| 박근모 | 안드로이드 개발, 테스터| C, Java | UML 모델링 |
+| 박근모 | 안드로이드 개발, 테스터| C, Java, Android, Python, html, css | UML 모델링 |
+
