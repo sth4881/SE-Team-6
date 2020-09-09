@@ -20,6 +20,7 @@
 -
 -
 -
+-
 
 ### 💻 Required Device
 - Android OS를 지원하는 핸드폰
