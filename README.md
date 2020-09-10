@@ -21,6 +21,8 @@
 - 내가 가지고 있는 식재료의 유통기한 및 보관 방법을 알려줄 수 있어야 한다.
 - 내가 가지고 있는 식재료로 만들 수 있는 메뉴의 레시피를 알려줘야 한다
 - 내가 가지고 있는 식재료가 얼마나 남았는지 알려줄 수 있어야 한다.
+- 내가 가지고 있는 식재료가 동일해도 연속적으로 같은 레시피를 추천하면 안된다.
+- 레시피에 며칠전에 전에 요리했는지 알려줄 수 있어야 한다.
 
 ### 💻 Required Device
 - Android OS를 지원하는 핸드폰
@@ -29,7 +31,7 @@
 | Participants | Roles | Skills | Training Needs |
 |:------------:|:-----:|:------:|:--------------:|
 | 송진호 | 팀장, 서버 개발, DB 설계 및 구현 | C, Java, Python, HTML, Javascript, Node.js, MySQL | UML 모델링 |
-| 김태호 | - | C, Java | UML 모델링 |
+| 김태호 | 문서작성 및 테스터 | C, Java | UML 모델링 |
 | 류준형 | 안드로이드 개발, 테스터 | C, Java, Javascript(jQuery), MySQL, PHP, Python(NumPy, Matplotlib, TensorFlow-Keras), Flask | UML 모델링 |
 | 박근모 | 안드로이드 개발, 테스터| C, Java, Android, Python, html, css | UML 모델링 |
 
