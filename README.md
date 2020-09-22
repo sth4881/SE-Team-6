@@ -37,7 +37,7 @@
 (사진) 올리신 다음에 지워주세요.
 
 ### 📑 Scenario Description
-(사진) 올리신 다음에 지워주세요.
+<img src="https://user-images.githubusercontent.com/46771903/93882490-3eeec080-fd1b-11ea-9fff-65e293a0f6f9.png" width="500" height="600"></img>
 
 ### 🤝 팀 구성
 | Participants | Roles | Skills | Training Needs |
