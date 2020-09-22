@@ -35,8 +35,10 @@
 
 ### 📑 Use Case Description
 <img src="https://user-images.githubusercontent.com/62328584/93883068-06031b80-fd1c-11ea-897f-b15ac74d88f5.JPG" width="500" height="500"></img>
+
 ### 📑 Scenario Description
 <img src="https://user-images.githubusercontent.com/46771903/93882490-3eeec080-fd1b-11ea-9fff-65e293a0f6f9.png" width="500" height="600"></img>
+
 <img src="https://user-images.githubusercontent.com/46771903/93883777-fc2de800-fd1c-11ea-99f1-ea218bd514f7.png" width="500" height="430"></img>
 
 ### 🤝 팀 구성
