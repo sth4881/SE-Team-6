@@ -34,8 +34,7 @@
 (사진) 올리신 다음에 지워주세요.
 
 ### 📑 Use Case Description
-(사진) 올리신 다음에 지워주세요.
-
+<img src="https://user-images.githubusercontent.com/62328584/93883068-06031b80-fd1c-11ea-897f-b15ac74d88f5.JPG" width="500" height="600"></img>
 ### 📑 Scenario Description
 <img src="https://user-images.githubusercontent.com/46771903/93882490-3eeec080-fd1b-11ea-9fff-65e293a0f6f9.png" width="500" height="600"></img>
 
