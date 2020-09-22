@@ -30,13 +30,13 @@
 ### 💻 필요한 기기
 - Android OS를 지원하는 핸드폰
 
-### Use Case Diagram
+### 📑 Use Case Diagram
 (사진) 올리신 다음에 지워주세요.
 
-### Use Case Description
+### 📑 Use Case Description
 (사진) 올리신 다음에 지워주세요.
 
-### Scenario Description
+### 📑 Scenario Description
 (사진) 올리신 다음에 지워주세요.
 
 ### 🤝 팀 구성
