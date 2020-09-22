@@ -24,7 +24,8 @@
 ### 🏹 비기능적 요구사항
 - 조리 가능한 요리가 다양할 경우 최근 조리 내역을 반영하여 사용자가 보다 다양한 음식을 접할 수 있어야 한다.
 
-### 🏢 [경쟁사 분석](https://github.com/sth4881/SE-Team-6/blob/master/%EA%B2%BD%EC%9F%81%EC%82%AC%EB%B6%84%EC%84%9D.md)
+### 🏢 경쟁사 분석
+- <https://github.com/sth4881/SE-Team-6/blob/master/%EA%B2%BD%EC%9F%81%EC%82%AC%EB%B6%84%EC%84%9D.md>
 
 ### 💻 필요한 기기
 - Android OS를 지원하는 핸드폰
