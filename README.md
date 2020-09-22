@@ -39,7 +39,7 @@
 ### 📑 Scenario Description
 <img src="https://user-images.githubusercontent.com/46771903/93882490-3eeec080-fd1b-11ea-9fff-65e293a0f6f9.png" width="500" height="600"></img>
 
-<img src="https://user-images.githubusercontent.com/46771903/93883777-fc2de800-fd1c-11ea-99f1-ea218bd514f7.png" width="500" height="430"></img>
+<img src="https://user-images.githubusercontent.com/46771903/93883777-fc2de800-fd1c-11ea-99f1-ea218bd514f7.png" width="500" height="420"></img>
 
 ### 🤝 팀 구성
 | Participants | Roles | Skills | Training Needs |
