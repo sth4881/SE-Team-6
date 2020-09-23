@@ -45,11 +45,8 @@
 ### 📑 Scenario Description
 <img src="https://user-images.githubusercontent.com/46771903/93951558-9e7fb700-fd81-11ea-9dfe-f1c29ad9ab00.png" width="500", height="600"></img>
 
+<img src="https://user-images.githubusercontent.com/46771903/93951604-c40cc080-fd81-11ea-9680-65e0cb1b8fcc.png" width="500", height="600"></img>
 
-***Scenario Name*** | 음식추천 받기
--- | --
-***Participating actor instances*** | - Bob : 자취생
-***Flow of events*** | 1. 자취를 시작한 지 얼마 되지 않은 Bob은 최근에 배달음식을 자주 시켜 먹어서 주5일 아르바이트에도 불구하고 돈이 부족한 상황에 놓이게 된다.<br/> 2. 식비를 아낄 수 있는 방법에 대해서 고민하던 Bob은 인터넷을 검색하다가 우연히 App에 대해서 알게 된다. 금일 저녁을 어떻게 해결하면 좋을지 고민하던 Bob은 App을 활용해서 요리를 해보기로 한다.<br/> 3. Bob은 며칠 전에 엄마가 가득 채워놓고 간 냉장고를 뒤지며 어떤 재료가 있는지 살피면서 ‘인벤토리’에 재료를 하나하나 등록한다.<br/>   4. 재료등록을 마친 Bob은 App이 추천해주는 여러 음식 후보 중에서 겹치는 재료가 가장 많은 김치볶음밥을 해서 먹기로 결정한다.<br/>   5. 저녁 식사를 배부르게 먹은 Bob은 참고한 레시피에 ‘추천’을 누르고 ‘덕분에 맛있게 잘 먹었습니다’라고 감사함을 표하는 댓글을 달고 App을 종료한다.
 
 ### 🤝 팀 구성
 | Participants | Roles | Skills | Training Needs |
