@@ -47,6 +47,7 @@
 
 <img src="https://user-images.githubusercontent.com/46771903/93951604-c40cc080-fd81-11ea-9680-65e0cb1b8fcc.png" width="500", height="600"></img>
 
+<img src="https://user-images.githubusercontent.com/69136953/93884905-74e17400-fd1e-11ea-9b24-0cfbc12aba10.png" width="1000" height="800"></img>
 
 ### 🤝 팀 구성
 | Participants | Roles | Skills | Training Needs |
