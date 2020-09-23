@@ -36,7 +36,7 @@
 ### 📑 Use Case Description
 ***Use case name*** | Receive recommendation
 -- | --
-***Participating actors*** | - User
+***Participating actors*** | User
 ***Flow of events*** | 1. User가 단말기에서 “Receive recommendation” 기능을 선택한다.<br/>                2. App은 ‘냉장고를 채워주세요.’ 라는 토스트(Toast)메시지와 함께             User의 ‘냉장고’로 화면을 전환한다.<br/>                2.1 사전에 등록된 정보가 있는 User는 이 단계를 생략한다.<br/>   3. User는 App이 제공하는 양식에 따라 현재 보유하고 있는 재료의 종류와 수량을 카테고리에 맞게 입력한다.<br/>                4. App은 User가 입력한 정보를 토대로 Recipe Database에 접속한 후, 현재 조리 가능한 요리를 화면에 띄운다.</br>   5. User는 추천받은 요리 중 하나를 선택한다.</br>                6. App은 User에게 Recipe Database에 저장된 ‘기본 레시피’를 제공하고, 필요에 따라 다른 User들이 공유한 레시피도 함께 제공한다. 
 ***Entry condition*** | - User는 App에 로그인 한다.
 ***Exit condition*** | - User는 App으로부터 적절한 요리(겹치는 재료가 많은)를 추천받는다. </br>   - User는 App으로부터 트랜잭션이 처리될 수 없는지에 대한 설명을 받는다.(재료부족)
