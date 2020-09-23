@@ -34,12 +34,25 @@
 <img src="https://user-images.githubusercontent.com/69136953/93884905-74e17400-fd1e-11ea-9b24-0cfbc12aba10.png" width="1000" height="800"></img>
 
 ### 📑 Use Case Description
-<img src="https://user-images.githubusercontent.com/62328584/93883068-06031b80-fd1c-11ea-897f-b15ac74d88f5.JPG" width="500" height="500"></img>
+***Use case name*** | Receive recommendation
+-- | --
+***Participating actors*** | - User
+***Flow of events*** | 1. User가 단말기에서 “Receive recommendation” 기능을 선택한다.<br/>                2. App은 ‘냉장고를 채워주세요.’ 라는 토스트(Toast)메시지와 함께             User의 ‘냉장고’로 화면을 전환한다.<br/>                2.1 사전에 등록된 정보가 있는 User는 이 단계를 생략한다.<br/>   3. User는 App이 제공하는 양식에 따라 현재 보유하고 있는 재료의 종류와 수량을 카테고리에 맞게 입력한다.<br/>                4. App은 User가 입력한 정보를 토대로 Recipe Database에 접속한 후, 현재 조리 가능한 요리를 화면에 띄                운다.</br>   5. User는 추천받은 요리 중 하나를 선택한다.</br>                6. App은 User에게 Recipe Database에 저장된 ‘기본 레시피’를 제공하고, 필요에 따라 다른 User들이 공유                      한 레시피도 함께 제공한다. 
+***Entry condition*** | - User는 App에 로그인 한다.
+***Exit condition*** | - User는 App으로부터 적절한 요리(겹치는 재료가 많은)를 추천받는다. </br>   - User는 App으로부터 트랜잭션이 처리될 수 없는지에 대한 설명을 받는다.(재료부족)
+***Quality requirements*** | - App은 User에게 다양한 정렬방식(댓글 순, 공유횟수)을 이용해서 메뉴를 추천할 수 있어야 한다.
 
 ### 📑 Scenario Description
-<img src="https://user-images.githubusercontent.com/46771903/93882490-3eeec080-fd1b-11ea-9fff-65e293a0f6f9.png" width="500" height="600"></img>
+***Scenario Name*** | 음식추천 받고 레시피 공유하기
+-- | --
+***Participating actor instances*** | - Alice : 직장인
+***Flow of events*** | 1. 최근 잦은 야근 때문에 가족들과 함께 식사할 기회가 없었던 Alice는 오랜만에 가족들과 함께 먹을 메뉴에 대해서 고민한다.<br/> 2. 장을 본 지가 오래됐던 Alice는 집에 식재료가 얼마나 있는지 알기 위해서 App을 실행한다. ‘인벤토리’를 살펴보던 Alice는 재료가 얼마 없어서 현재 갖고 있는 재료만으로는 만들 수 있는 요리가 없다는 사실을 깨닫는다.<br/> 3. 퇴근 후에 곧장 집으로 가려고 생각했던 Alice는 집 근처 마트에서 장을 보러 간다. 장 보러 가는 것을 번거롭게 여기는 Alice는 식재료를 가능한 한 많이 구입한다.<br/>   4. 장을 보고 집에 도착한 Alice는 App을 실행시켜서 구매한 식재료를 ‘인벤토리’에 모두 등록한다. 어떤 요리를 해서 먹을지 고민하던 Alice는 ‘인벤토리’에 저장된 재료들을 바탕으로 메뉴를 추천받는다.<br/>   5. 추천받은 메뉴 중에서 카레를 먹고 싶었던 Alice는 다른 사용자들이 공유한 레시피를 하나하나 훑어본다.</br>   6. 조금 색다른 카레를 만들고 싶었던 Alice는 칵테일 새우와 생크림, 그리고 우유를 이용하여 나만의 카레를 만드는데 성공한다.</br>   7. 가족들과 함께 저녁 식사를 맛있게 먹은 Alice는 App을 실행시켜서 오늘 만든 레시피를 ‘레시피 게시판’에 올려서 정보를 공유하고 App을 종료한다.   
 
-<img src="https://user-images.githubusercontent.com/46771903/93883777-fc2de800-fd1c-11ea-99f1-ea218bd514f7.png" width="500" height="420"></img>
+
+***Scenario Name*** | 음식추천 받기
+-- | --
+***Participating actor instances*** | - Bob : 자취생
+***Flow of events*** | 1. 자취를 시작한 지 얼마 되지 않은 Bob은 최근에 배달음식을 자주 시켜 먹어서 주5일 아르바이트에도 불구하고 돈이 부족한 상황에 놓이게 된다.<br/> 2. 식비를 아낄 수 있는 방법에 대해서 고민하던 Bob은 인터넷을 검색하다가 우연히 App에 대해서 알게 된다. 금일 저녁을 어떻게 해결하면 좋을지 고민하던 Bob은 App을 활용해서 요리를 해보기로 한다.<br/> 3. Bob은 며칠 전에 엄마가 가득 채워놓고 간 냉장고를 뒤지며 어떤 재료가 있는지 살피면서 ‘인벤토리’에 재료를 하나하나 등록한다.<br/>   4. 재료등록을 마친 Bob은 App이 추천해주는 여러 음식 후보 중에서 겹치는 재료가 가장 많은 김치볶음밥을 해서 먹기로 결정한다.<br/>   5. 저녁 식사를 배부르게 먹은 Bob은 참고한 레시피에 ‘추천’을 누르고 ‘덕분에 맛있게 잘 먹었습니다’라고 감사함을 표하는 댓글을 달고 App을 종료한다.
 
 ### 🤝 팀 구성
 | Participants | Roles | Skills | Training Needs |
