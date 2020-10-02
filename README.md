@@ -37,7 +37,7 @@
 ***Use case name*** | Receive recommendation
 -- | --
 ***Participating actors*** | User
-***Flow of events*** | 1. User가 단말기에서 “Receive recommendation” 기능을 선택한다.<br/>                2.App은 Organize recipe data 유스 케이스를 호출하여 User 적          절한 요리를 선정한다.<br/>                2.1 App은 User에게 현재 조리 가능한 요리를 알려준다.<br/>   3. User는 추천받은 요리 중 하나를 선택한다.<br/>                4. App은 Send recipes 유스 케이스를 호출하여 User에게 기본           레시피와 다른 User들이 공유한 레시피를 알려준다.</br>
+***Flow of events*** | 1. User가 단말기에서 “Receive recommendation” 기능을 선택한다.<br/>                2.App은 Organize recipe data 유스 케이스를 호출하여 User 적          절한 요리를 선정한다.<br/>                2.1 App은 User에게 현재 조리 가능한 요리를 알려준다.<br/>   3. User는 추천받은 요리 중 하나를 선택한다.<br/>                4. App은 Send recipes 유스 케이스를 호출하여 User에게 기본           레시피와 다른 User들이                공유한 레시피를 알려준다.</br>
 ***Entry condition*** | - User는 App에 로그인 한다.
 ***Exit condition*** | - User는 App으로부터 적절한 요리(겹치는 재료가 많은)를 추천받는다. </br>   - User는 App으로부터 트랜잭션이 처리될 수 없는지에 대한 설명을 받는다.(재료부족)
 ***Quality requirements*** | - App은 User에게 다양한 정렬방식(추천순, 공유 횟수 등)을 이용해서 메뉴를 추천할 수 있어야 한다.
