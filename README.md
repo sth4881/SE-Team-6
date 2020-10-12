@@ -42,8 +42,8 @@
 ***Exit condition*** | - User는 App으로부터 적절한 요리(겹치는 재료가 많은)를 추천받는다. </br>   - User는 App으로부터 트랜잭션이 처리될 수 없는지에 대한 설명을 받는다.(재료부족)
 ***Quality requirements*** | - App은 User에게 다양한 정렬방식(추천순, 공유 횟수 등)을 이용해서 메뉴를 추천할 수 있어야 한다.
 
-### 📑 Scenario Description
-<img src="https://user-images.githubusercontent.com/46771903/93951558-9e7fb700-fd81-11ea-9dfe-f1c29ad9ab00.png" width="700" height="840"></img>
+### 📑 Scenario Description - 송진호
+<img src="https://user-images.githubusercontent.com/46771903/95730899-d5c6f100-0cb9-11eb-81be-1ef7f3c6ed72.png" width="700" height="840"></img>
 
 <img src="https://user-images.githubusercontent.com/46771903/93951604-c40cc080-fd81-11ea-9680-65e0cb1b8fcc.png" width="700" height="580"></img>
 
