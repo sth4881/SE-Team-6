@@ -43,9 +43,9 @@
 ***Quality requirements*** | - App은 User에게 다양한 정렬방식(추천순, 공유 횟수 등)을 이용해서 메뉴를 추천할 수 있어야 한다.
 
 ### 📑 Scenario Description - 송진호
-<img src="https://user-images.githubusercontent.com/46771903/95730899-d5c6f100-0cb9-11eb-81be-1ef7f3c6ed72.png" width="700" height="740"></img>
+<img src="https://user-images.githubusercontent.com/46771903/95747929-32370a00-0cd4-11eb-8ff1-9efb4ac1d778.png" width="700" height="740"></img>
 
-<img src="https://user-images.githubusercontent.com/46771903/95731317-54239300-0cba-11eb-92d8-7bdd70cef763.png" width="700" height="770"></img>
+<img src="https://user-images.githubusercontent.com/46771903/95747967-41b65300-0cd4-11eb-943f-24d461377945.png" width="700" height="770"></img>
 
 ### 🤝 팀 구성
 | Participants | Roles | Skills | Training Needs |
