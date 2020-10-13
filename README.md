@@ -51,7 +51,7 @@
 <img src="https://user-images.githubusercontent.com/69136953/95857544-c10c5b00-0d96-11eb-9f64-227cf66720f1.png" width="1000" height="400"></img>
 
 ### 📑 Sequence Diagram(IngredientManagement) - 김태호
-
+![Sequence Diagram_IngredientManagement_작성자 김태호](https://user-images.githubusercontent.com/70993226/95859609-d5058c00-0d99-11eb-919f-bf812e1018be.PNG)
 
 ### 📑 Class Diagram - 류준형
 <img src="https://user-images.githubusercontent.com/62328584/95859176-295c3c00-0d99-11eb-89e0-4dba2515a1b9.JPG" width="1000" height="400"></img>
