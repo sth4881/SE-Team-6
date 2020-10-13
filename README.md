@@ -47,6 +47,18 @@
 
 <img src="https://user-images.githubusercontent.com/46771903/95747967-41b65300-0cd4-11eb-943f-24d461377945.png" width="700" height="770"></img>
 
+### 📑 Sequence Diagram(ReceiveRecommendation) - 박근모
+
+
+### 📑 Sequence Diagram(IngredientManagement) - 김태호
+
+
+### 📑 Class Diagram - 류준형
+
+
+### 📑 Object Diagram(나만의 레시피 만들고 공유하기) - 송진호
+
+
 ### 🤝 팀 구성
 | Participants | Roles | Skills | Training Needs |
 |:------------:|:-----:|:------:|:--------------:|
