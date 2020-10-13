@@ -33,7 +33,7 @@
 ### 📑 Use Case Diagram - 박근모
 <img src="https://user-images.githubusercontent.com/69136953/95857079-08deb280-0d96-11eb-8bee-197408abdb18.png" width="1000" height="800"></img>
 
-### 📑 Use Case Description
+### 📑 Use Case Description - 류준형
 ***Use case name*** | Receive recommendation
 -- | --
 ***Participating actors*** | User
@@ -54,7 +54,7 @@
 
 
 ### 📑 Class Diagram - 류준형
-
+<img src="https://user-images.githubusercontent.com/62328584/95859176-295c3c00-0d99-11eb-89e0-4dba2515a1b9.JPG" width="1000" height="400"></img>
 
 ### 📑 Object Diagram(나만의 레시피 만들고 공유하기) - 송진호
 
