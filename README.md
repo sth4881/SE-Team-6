@@ -57,7 +57,7 @@
 <img src="https://user-images.githubusercontent.com/62328584/95859176-295c3c00-0d99-11eb-89e0-4dba2515a1b9.JPG" width="1000" height="400"></img>
 
 ### 📑 Object Diagram(나만의 레시피 만들고 공유하기) - 송진호
-<img src="https://user-images.githubusercontent.com/46771903/95871579-c70b3780-0da8-11eb-81ee-2df942ec8a6e.png" width="800" height="550"></img>
+<img src="https://user-images.githubusercontent.com/46771903/95872449-c3c47b80-0da9-11eb-81ad-8aabf03c462a.png" width="800" height="550"></img>
 
 ### 🤝 팀 구성
 | Participants | Roles | Skills | Training Needs |
