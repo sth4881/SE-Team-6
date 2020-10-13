@@ -30,7 +30,7 @@
 ### 💻 필요한 기기
 - Android OS를 지원하는 핸드폰
 
-### 📑 Use Case Diagram
+### 📑 Use Case Diagram - 박근모
 <img src="https://user-images.githubusercontent.com/69136953/95857079-08deb280-0d96-11eb-8bee-197408abdb18.png" width="1000" height="800"></img>
 
 ### 📑 Use Case Description
@@ -48,7 +48,7 @@
 <img src="https://user-images.githubusercontent.com/46771903/95747967-41b65300-0cd4-11eb-943f-24d461377945.png" width="700" height="770"></img>
 
 ### 📑 Sequence Diagram(ReceiveRecommendation) - 박근모
-
+<img src="https://user-images.githubusercontent.com/69136953/95857544-c10c5b00-0d96-11eb-9f64-227cf66720f1.png" width="1000" height="400"></img>
 
 ### 📑 Sequence Diagram(IngredientManagement) - 김태호
 
