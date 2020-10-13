@@ -31,7 +31,7 @@
 - Android OS를 지원하는 핸드폰
 
 ### 📑 Use Case Diagram
-<img src="https://user-images.githubusercontent.com/69136953/93884905-74e17400-fd1e-11ea-9b24-0cfbc12aba10.png" width="1000" height="800"></img>
+<img src="https://user-images.githubusercontent.com/69136953/95857079-08deb280-0d96-11eb-8bee-197408abdb18.png" width="1000" height="800"></img>
 
 ### 📑 Use Case Description
 ***Use case name*** | Receive recommendation
