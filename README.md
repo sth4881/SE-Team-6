@@ -48,7 +48,7 @@
 <img src="https://user-images.githubusercontent.com/46771903/95747967-41b65300-0cd4-11eb-943f-24d461377945.png" width="700" height="770"></img>
 
 ### 📑 Sequence Diagram(ReceiveRecommendation) - 박근모
-<img src="https://user-images.githubusercontent.com/69136953/95857544-c10c5b00-0d96-11eb-9f64-227cf66720f1.png" width="1000" height="400"></img>
+<img src="https://user-images.githubusercontent.com/69136953/95937437-c4452c80-0e12-11eb-8b79-94e8b50d2d1f.png" width="1000" height="400"></img>
 
 ### 📑 Sequence Diagram(IngredientManagement) - 김태호
 ![Sequence Diagram_IngredientManagement_작성자 김태호](https://user-images.githubusercontent.com/70993226/95859609-d5058c00-0d99-11eb-919f-bf812e1018be.PNG)
