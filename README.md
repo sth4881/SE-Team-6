@@ -54,7 +54,7 @@
 ![Sequence Diagram_IngredientManagement_작성자 김태호](https://user-images.githubusercontent.com/70993226/95859609-d5058c00-0d99-11eb-919f-bf812e1018be.PNG)
 
 ### 📑 Class Diagram - 류준형
-<img src="https://user-images.githubusercontent.com/62328584/95859176-295c3c00-0d99-11eb-89e0-4dba2515a1b9.JPG" width="1000" height="400"></img>
+<img src="https://user-images.githubusercontent.com/62328584/95936864-80055c80-0e11-11eb-83c7-2ae468caac82.JPG" width="1000" height="400"></img>
 
 ### 📑 Object Diagram(나만의 레시피 만들고 공유하기) - 송진호
 <img src="https://user-images.githubusercontent.com/46771903/95872449-c3c47b80-0da9-11eb-81ad-8aabf03c462a.png" width="800" height="550"></img>
