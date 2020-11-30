@@ -59,6 +59,15 @@
 ### 📑 Object Diagram(나만의 레시피 만들고 공유하기) - 송진호
 <img src="https://user-images.githubusercontent.com/46771903/95872449-c3c47b80-0da9-11eb-81ad-8aabf03c462a.png" width="800" height="550"></img>
 
+### 📑 Design Goals - 류준형
+1. Performance
+- Response Time :
+2. Maintenance
+- Extensibility :
+- Modifiability :
+3. End User
+- Usability :
+
 ### 🤝 팀 구성
 | Participants | Roles | Skills | Training Needs |
 |:------------:|:-----:|:------:|:--------------:|
