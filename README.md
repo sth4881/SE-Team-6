@@ -53,9 +53,12 @@
 ### 📑 Sequence Diagram(ManagementIngredient) - 김태호
 ![Sequence Diagram_IngredientManagement_작성자 김태호](https://user-images.githubusercontent.com/70993226/95859609-d5058c00-0d99-11eb-919f-bf812e1018be.PNG)
 
-### 📑 Class Diagram - 류준형
-**수정 전**
-<img src="https://user-images.githubusercontent.com/62328584/95936864-80055c80-0e11-11eb-83c7-2ae468caac82.JPG" width="1000" height="400"></img>
+### 📑 Class Diagram
+**수정 전 - 류준형**
+<img src="https://user-images.githubusercontent.com/62328584/95936864-80055c80-0e11-11eb-83c7-2ae468caac82.JPG" width="1000" height="500"></img>
+
+**수정 후 - 송진호**
+<img src="https://raw.githubusercontent.com/sth4881/SE-Team-6/master/img/Class%20Diagram.png" width="1000" height="450"></img>
 
 ### 📑 Object Diagram(나만의 레시피 만들고 공유하기) - 송진호
 <img src="https://user-images.githubusercontent.com/46771903/95872449-c3c47b80-0da9-11eb-81ad-8aabf03c462a.png" width="800" height="550"></img>
@@ -78,8 +81,10 @@
 또한, 사용자가 레시피를 참고하는 과정에서의 편리함도 중요하다. 요리를 진행하는 중간중간 레시피를 확인하는데 어려움이 없도록 한다.
 
 ### 📑 Component Diagram
+<img src="https://raw.githubusercontent.com/sth4881/SE-Team-6/master/img/Component%20Diagram.png" width="1000" height="685"></img>
 
 ### 📑 Deployment Diagram
+<img src="https://raw.githubusercontent.com/sth4881/SE-Team-6/master/img/Deployment%20Diagram.png" width="1000" height="575"></img>
 
 ### 🤝 팀 구성
 | Participants | Roles | Skills | Training Needs |
