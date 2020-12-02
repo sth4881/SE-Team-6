@@ -81,10 +81,10 @@
 또한, 사용자가 레시피를 참고하는 과정에서의 편리함도 중요하다. 요리를 진행하는 중간중간 레시피를 확인하는데 어려움이 없도록 한다.
 
 ### 📑 Component Diagram
-<img src="https://raw.githubusercontent.com/sth4881/SE-Team-6/master/img/Component%20Diagram.png" width="1000" height="685"></img>
+<img src="https://user-images.githubusercontent.com/46771903/100820814-68059d00-3492-11eb-9c65-ba9e5844c88a.png" width="1000" height="685"></img>
 
 ### 📑 Deployment Diagram
-<img src="https://raw.githubusercontent.com/sth4881/SE-Team-6/master/img/Deployment%20Diagram.png" width="1000" height="575"></img>
+<img src="https://user-images.githubusercontent.com/46771903/100820831-72279b80-3492-11eb-84ad-a6f356bc01aa.png" width="1000" height="575"></img>
 
 ### 🤝 팀 구성
 | Participants | Roles | Skills | Training Needs |
