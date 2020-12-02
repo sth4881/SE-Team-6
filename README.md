@@ -84,7 +84,7 @@
 <img src="https://raw.githubusercontent.com/sth4881/SE-Team-6/master/img/Component%20Diagram.png" width="1000" height="685"></img>
 
 ### 📑 Deployment Diagram
-<img src="https://raw.githubusercontent.com/sth4881/SE-Team-6/master/img/Deployment%20Diagram.png" width="1000" height="575"></img>
+<img src="https://user-images.githubusercontent.com/46771903/100820831-72279b80-3492-11eb-84ad-a6f356bc01aa.png" width="1000" height="575"></img>
 
 ### 🤝 팀 구성
 | Participants | Roles | Skills | Training Needs |
