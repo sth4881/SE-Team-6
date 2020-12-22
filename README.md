@@ -80,10 +80,10 @@
 레시피 선택 시간을 줄일수게 한다. 조리에 사용된 재료는 저절로 차감되도록 한다.
 또한, 사용자가 레시피를 참고하는 과정에서의 편리함도 중요하다. 요리를 진행하는 중간중간 레시피를 확인하는데 어려움이 없도록 한다.
 
-### 📑 Component Diagram
+### 📑 Component Diagram - 송진호
 <img src="https://user-images.githubusercontent.com/46771903/100820814-68059d00-3492-11eb-9c65-ba9e5844c88a.png" width="1000" height="685"></img>
 
-### 📑 Deployment Diagram
+### 📑 Deployment Diagram - 
 <img src="https://user-images.githubusercontent.com/46771903/100820831-72279b80-3492-11eb-84ad-a6f356bc01aa.png" width="1000" height="575"></img>
 
 ### 🤝 팀 구성
