@@ -83,7 +83,7 @@
 ### 📑 Component Diagram - 송진호
 <img src="https://user-images.githubusercontent.com/46771903/100820814-68059d00-3492-11eb-9c65-ba9e5844c88a.png" width="1000" height="685"></img>
 
-### 📑 Deployment Diagram - 
+### 📑 Deployment Diagram - 송진호
 <img src="https://user-images.githubusercontent.com/46771903/100820831-72279b80-3492-11eb-84ad-a6f356bc01aa.png" width="1000" height="575"></img>
 
 ### 🤝 팀 구성
