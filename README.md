@@ -63,7 +63,7 @@
 ### 📑 Object Diagram(나만의 레시피 만들고 공유하기) - 송진호
 <img src="https://user-images.githubusercontent.com/46771903/95872449-c3c47b80-0da9-11eb-81ad-8aabf03c462a.png" width="800" height="550"></img>
 
-### 📑 Design Goals - 류준형
+### 📑 Design Goals - 류준형,김태호
 **Performance**
 - *Response Time* : 재료를 입력하는 과정에서 사용자의 수고로움이 요구된다. 그런 만큼, 입력한 재료와 수많은 레시피들을 비교하여 신속 정확하게 최적의 레시피를 제공해야 한다.
 - *Throughput* : 사용자가 레시피를 업로드 실행할 때
