@@ -58,12 +58,13 @@
 <img src="https://user-images.githubusercontent.com/62328584/95936864-80055c80-0e11-11eb-83c7-2ae468caac82.JPG" width="1000" height="500"></img>
 
 **수정 후 - 송진호**
-<img src="https://raw.githubusercontent.com/sth4881/SE-Team-6/master/img/Class%20Diagram.png" width="1000" height="450"></img>
+<img src="https://user-images.githubusercontent.com/46771903/103081845-2775eb00-461c-11eb-828f-b960181c8a2c.png" width="800" height="550"></img>
+
 
 ### 📑 Object Diagram(나만의 레시피 만들고 공유하기) - 송진호
-<img src="https://user-images.githubusercontent.com/46771903/95872449-c3c47b80-0da9-11eb-81ad-8aabf03c462a.png" width="800" height="550"></img>
+<img src="https://raw.githubusercontent.com/sth4881/SE-Team-6/master/img/Object%20Diagram.png" width="800" height="600"></img>
 
-### 📑 Design Goals - 류준형,김태호
+### 📑 Design Goals - 류준형, 김태호
 **Performance**
 - *Response Time* : 재료를 입력하는 과정에서 사용자의 수고로움이 요구된다. 그런 만큼, 입력한 재료와 수많은 레시피들을 비교하여 신속 정확하게 최적의 레시피를 제공해야 한다.
 - *Throughput* : 사용자가 레시피를 업로드 실행할 때
@@ -81,10 +82,10 @@
 또한, 사용자가 레시피를 참고하는 과정에서의 편리함도 중요하다. 요리를 진행하는 중간중간 레시피를 확인하는데 어려움이 없도록 한다.
 
 ### 📑 Component Diagram - 송진호
-<img src="https://user-images.githubusercontent.com/46771903/100820814-68059d00-3492-11eb-9c65-ba9e5844c88a.png" width="1000" height="685"></img>
+<img src="https://raw.githubusercontent.com/sth4881/SE-Team-6/master/img/Component%20Diagram.png" width="1000" height="800"></img>
 
 ### 📑 Deployment Diagram - 송진호
-<img src="https://user-images.githubusercontent.com/46771903/100820831-72279b80-3492-11eb-84ad-a6f356bc01aa.png" width="1000" height="575"></img>
+<img src="https://raw.githubusercontent.com/sth4881/SE-Team-6/master/img/Deployment%20Diagram.png" width="1000" height="575"></img>
 
 ### 🤝 팀 구성
 | Participants | Roles | Skills | Training Needs |
