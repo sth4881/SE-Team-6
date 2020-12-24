@@ -82,7 +82,7 @@
 또한, 사용자가 레시피를 참고하는 과정에서의 편리함도 중요하다. 요리를 진행하는 중간중간 레시피를 확인하는데 어려움이 없도록 한다.
 
 ### 📑 Component Diagram - 송진호
-<img src="https://raw.githubusercontent.com/sth4881/SE-Team-6/master/img/Component%20Diagram.png" width="1000" height="800"></img>
+<img src="https://user-images.githubusercontent.com/46771903/103082933-9c4a2480-461e-11eb-8397-7ae8bd0567e9.png" width="1000" height="900"></img>
 
 ### 📑 Deployment Diagram - 송진호
 <img src="https://raw.githubusercontent.com/sth4881/SE-Team-6/master/img/Deployment%20Diagram.png" width="1000" height="575"></img>
